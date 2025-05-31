@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5fcc4a5e9f7122107f447f277224abdc" extends="sys_import_set_row" label="u_occasions_staging" max_length="40" name="x_58872_needit_u_occasions_staging" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Date" label="Date" max_length="40" name="u_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Occasion Name" label="Occasion Name" max_length="40" name="u_occasion_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Occasion Type" label="Occasion Type" max_length="40" name="u_occasion_type" type="string"/>
+    </element>
+</database>

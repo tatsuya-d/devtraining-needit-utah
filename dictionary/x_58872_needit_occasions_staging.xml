@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2db9029a9f7122107f447f277224aba6" extends="sys_import_set_row" label="occasions_staging" max_length="40" name="x_58872_needit_occasions_staging" type="collection">
+        <element attributes="import_attribute_name=Ver" label="Ver" max_length="15" name="u_ver" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=承認者 ショウニン シャ" label="承認者 ショウニン シャ" max_length="40" name="u_承認者_ショウニン_シャ" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=更新内容" label="更新内容" max_length="40" name="u_更新内容" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=更新日" label="更新日" max_length="40" name="u_更新日" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=更新理由" label="更新理由" max_length="40" name="u_更新理由" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=更新者 コウシン" label="更新者 コウシン" max_length="40" name="u_更新者_コウシン" type="string"/>
+    </element>
+</database>
